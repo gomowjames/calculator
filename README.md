@@ -1,6 +1,8 @@
-# Calculator Web App
+# Simple ReactJS Calculator
 
-Demo here
+[Demo here](barrettjbutterfield.com/_projects/calculator)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
